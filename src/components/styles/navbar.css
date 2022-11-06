@@ -1,0 +1,21 @@
+.my-cart-head {
+  padding: 1%;
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+}
+.my_shop {
+  display: inline-block;
+  margin: auto;
+}
+.my_shop:hover {
+  cursor: pointer;
+  font-size: 2rem;
+  transition: all 0.7s;
+}
+.cart {
+  font-size: 1.5rem;
+  color: white;
+  float: right;
+  margin-right: 2%;
+}
